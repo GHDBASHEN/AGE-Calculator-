@@ -16,4 +16,4 @@ A simple Age Calculator application built using Python and Tkinter. This tool ca
 ## Installation and Setup
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ghdbashen/age-calculator.git
+   [git clone https://github.com/GHDBASHEN/AGE-Calculator-.git]
